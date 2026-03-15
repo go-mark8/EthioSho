@@ -1,7 +1,7 @@
 # 🛒 EthioShop - Enterprise-Grade Ethiopian E-Commerce Marketplace
 
 <div align="center">
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/ethiomark8-ar/et?utm_source=oss&utm_medium=github&utm_campaign=ethiomark8-ar%2Fet&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+  
 ![Flutter](https://img.shields.io/badge/Flutter-3.24+-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.4+-0175C2?logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-Latest-FFCA28?logo=firebase)
@@ -39,7 +39,7 @@
 - [Support](#-support)
 
 ---
-
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/ethiomark8-ar/et?utm_source=oss&utm_medium=github&utm_campaign=ethiomark8-ar%2Fet&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
 ## 🎯 About
 
 EthioShop is a comprehensive, enterprise-grade e-commerce marketplace designed specifically for the Ethiopian market. Built with Flutter and Firebase, it provides a seamless shopping experience with P2P capabilities, offline support, and Ethiopian-specific features including local currency (ETB), regional delivery, and Chapa payment gateway integration.
